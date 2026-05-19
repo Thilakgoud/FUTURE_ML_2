@@ -1,0 +1,9 @@
+ticket,label
+"System crash urgent","High"
+"Password reset request","Low"
+"Payment failed urgent","High"
+"General inquiry about product","Medium"
+"Server downtime issue","High"
+"Update account details","Medium"
+"Refund request","Medium"
+"Critical bug in software","High"
